@@ -1,0 +1,20 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
