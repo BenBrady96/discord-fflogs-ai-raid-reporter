@@ -113,4 +113,11 @@ discord-ai-raid-reporter/
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) for details.
-#
+
+---
+
+## 📧 Contact
+
+**BenBrady96** — [GitHub](https://github.com/BenBrady96)
+
+
