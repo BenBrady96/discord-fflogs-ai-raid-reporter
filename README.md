@@ -1,4 +1,4 @@
-# 🤖 Discord AI Raid Reporter
+# 📊 Discord AI Raid Reporter
 
 Automatically generate AI-powered raid performance reports from FFLogs links.
 
@@ -112,12 +112,14 @@ discord-ai-raid-reporter/
 
 ## 📄 License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT - see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 📧 Contact
 
-**BenBrady96** — [GitHub](https://github.com/BenBrady96)
+- [GitHub](https://github.com/BenBrady96)
+- [LinkedIn](https://www.linkedin.com/in/ben-brady-b241642b4/)
+
 
 
