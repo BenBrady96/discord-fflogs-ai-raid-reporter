@@ -23,7 +23,7 @@ A Discord bot that detects [FFLogs](https://www.fflogs.com/) links, queries the 
 
 ## 🎥 Demo
 
-[![Watch the demo](assets/Agentic%20Discord%20Admin%20Logo.png)](https://youtu.be/sjbn3MEzjg4)
+[![Watch the demo](assets/Discord%20AI%20Raid%20Reporter%20Logo.png)](https://youtu.be/sjbn3MEzjg4)
 
 ---
 
